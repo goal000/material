@@ -1,0 +1,13 @@
+.tp-container
+{
+    position:absolute;
+    background:#eee;
+    height:100%;
+    width:100%;
+}
+.tp-section
+{
+    display:flex;
+    align-content :center;
+    width:100px;
+}
